@@ -43,6 +43,12 @@ body {
     border-radius: 5px;
     background-color: #b4aaaa;
 }
+
+.playing {
+    transform: scale(1.1);
+    border-color: #FF533C;
+    box-shadow: 0 0 10px #FF533C;
+}
   
 .key kbd {
     color: hsl(0, 0%, 97%);
