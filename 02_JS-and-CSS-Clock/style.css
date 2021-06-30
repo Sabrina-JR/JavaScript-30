@@ -62,11 +62,11 @@ html,body{
 }
 
 .dot{
-    width: 20px;
-    height: 20px;
+    width: 15px;
+    height: 15px;
     border-radius: 100%;
-    background-color: #d09e59;
-    left: 46%;
+    background-color: #b36729;
+    left: 47%;
     top: 41%;
 }
 
