@@ -1,0 +1,13 @@
+*{
+    border: solid 1px burlywood;
+    box-sizing: border-box;
+    font-family: 'Amatic SC', cursive;
+}
+
+html,body{
+   margin: 0;
+   padding: 0;
+   width: 100%;
+   background-color: #7ca1a1;
+   text-align: center;
+}
